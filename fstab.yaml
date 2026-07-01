@@ -1,5 +1,9 @@
 mountpoints:
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+/: "https://drive.google.com/drive/u/1/folders/1GfbrgA9QgBavNlj7CFLZkpU5N6Si6q00"
+>>>>>>> c400c08 (Add mountpoints configuration to fstab.yaml)
